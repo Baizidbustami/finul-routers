@@ -1,0 +1,9 @@
+.home-Container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.mahi{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:45px;
+}
