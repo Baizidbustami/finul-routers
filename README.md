@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## https://astounding-arithmetic-0edb51.netlify.app/home
 
 In the project directory, you can run:
 
